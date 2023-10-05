@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prijall
-- 👀 I’m interested in Aritificial Intelligence and Blockchain.
+- 👀 I’m interested in Artificial Intelligence and Neural Networks
 - 🌱 I’m currently learning basic programming and developing logic.
-- 💞️ I’m looking to collaborate on ML/AI related projects.
+- 💞️ I’m looking to collaborate on ML/AI-related projects.
 - 📫 How to reach me email me: khadkaprijal@gmail.com
 
 <!---
