@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prijall
+- 👋 Hi, I’m @prijal
 - 👀 I’m interested in Artificial Intelligence and Neural Networks
 - 🌱 I’m currently learning basic programming and developing logic.
 - 💞️ I’m looking to collaborate on ML/AI-related projects.
