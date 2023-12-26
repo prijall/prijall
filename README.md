@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Prijal Khadka</h1>
-<h3 align="center">A passionate AI learner</h3>
+<h3 align="center">A Passionate AI Learner</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prijall&label=Profile%20views&color=0e75b6&style=flat" alt="prijall" /> </p>
 
-- 🔭 I’m currently working on **programming language and logic development**
+- 🔭 I’m currently working on **Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **python libraries, data science**
+- 🌱 I’m currently learning **Python Libraries and Data Science**
 
 - 👯 I’m looking to collaborate on **AI/ML related project**
 
