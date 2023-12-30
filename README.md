@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prijall&label=Profile%20views&color=0e75b6&style=flat" alt="prijall" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Algorithms**
+- 🔭 I’m currently working on **Python Libraries and Data Science**
 
-- 🌱 I’m currently learning **Python Libraries and Data Science**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - 👯 I’m looking to collaborate on **AI/ML related project**
 
