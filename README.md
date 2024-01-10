@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **AI/ML related project**
 
 - 📫 How to reach me **khadkaprijal@gmail.com**
+- ⚡ Fun fact **Data is my new emotion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
