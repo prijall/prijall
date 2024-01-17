@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **AI/ML related project**
 
 - 📫 How to reach me **khadkaprijal@gmail.com**
-- ⚡ Fun fact **I Express Through Data**
+- ⚡ Fun fact **I Express and Impress Through Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
