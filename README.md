@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Prijal Khadka</h1>
 <h3 align="center">A Passionate AI Learner</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/_373oTlRav_oEW2qE8MmC0_CmzRv99of_QNGeH4yzLc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
 
 
 
