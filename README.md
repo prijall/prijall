@@ -4,8 +4,8 @@
 I am Machine Learning and Deep Learning Learner and practitioner. I believe solving real life usecases through ML/DL model is truly a superpower. So, I am in the process of unlocking this superpower and learning a lot!! 
 
 #### Updates:
-- 🔭 I’m currently working on **Python Libraries and Data Science**
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🔭 I’m currently working on **training ML Model with low Bias-Variance tradeoffs**
+- 🌱 I’m currently learning **Machine Learning Algorithms and Web Scraping**
 - 📫 How to reach me **khadkaprijal@gmail.com**
 - 👯 I’m looking to collaborate on **ML Projects**
 
