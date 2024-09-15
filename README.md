@@ -9,6 +9,8 @@ I am Machine Learning and Deep Learning Learner and practitioner. I believe solv
 - 📫 How to reach me **khadkaprijal@gmail.com**
 - 👯 I’m looking to collaborate on **ML Projects**
 
+#### Current Read📕: <a href="https://arxiv.org/pdf/1512.03385">Deep Residual Learning for Image Recognition(ResNet Architecture)</a>
+
 
 #### Connect with me:
 <p align="left">
