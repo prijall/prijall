@@ -5,7 +5,7 @@ I am Machine Learning and Deep Learning Learner and practitioner. I believe solv
 
 #### Updates:
 - 🔭 I’m currently working on **training ML Model with low Bias-Variance tradeoffs**
-- 🌱 I’m currently learning **Machine Learning Algorithms and Web Scraping**
+- 🌱 I am currently learning **TTs**
 - 📫 How to reach me **khadkaprijal@gmail.com**
 - 👯 I’m looking to collaborate on **ML Projects**
 
